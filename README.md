@@ -5,7 +5,7 @@
 
 ## Preview
 
-![project preview](./chat-view.png)
+![project preview](https://i.postimg.cc/N0NsBy2d/chat-view.png)
 
 ## Para executar
 No seu terminal execute:
