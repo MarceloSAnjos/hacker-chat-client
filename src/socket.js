@@ -46,8 +46,8 @@ export default class SocketClient {
 
     async createConnection() {
         const options = {
-            port: 9898,
-            host: 'localhost',
+            port: this.port,
+            host: this.host,
             headers: {
                 Connection: 'Upgrade',
                 Upgrade: 'websocket'

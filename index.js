@@ -1,8 +1,25 @@
+#!/usr/bin/env node
 
 /*
-node index.js \
-    --username marcelodosanjos \
-    --room sala 01 \
+
+    chmod +x index.js
+
+*/
+/*
+
+    npm unlink -g @marcelosanjos/hacker-chat-client
+    
+    hacker-chat \
+        --username marcelodosanjos \
+        --room sala01
+
+     ./index.js \
+        --username marcelodosanjos \
+        --room sala01
+
+    node index.js \
+        --username marcelodosanjos \
+        --room sala_01 \
     --hostUri localhost
 */
 
