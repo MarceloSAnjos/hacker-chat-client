@@ -10,5 +10,5 @@
 ## Para executar
 No seu terminal execute:
 ```sd
-npx npx  @marcelosanjos/hacker-chat-client --room sala --username nome
+npx  @marcelosanjos/hacker-chat-client --room sala --username nome
 ```
