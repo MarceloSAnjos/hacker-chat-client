@@ -52,8 +52,12 @@ export default class EventManager {
     }
 
     #updateActivityLogComponent(message) {
-
+        this.#emitComponentUpdate(
+            constants.events.app.ACTIVITYLOG_UPDATED,
+            message
+        )
     }
+
     #updateUsersComponent() {
         this.#emitComponentUpdate(
             constants.events.app.STATUS_UPDATED,
