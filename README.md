@@ -1,7 +1,7 @@
 
 # Projeto utilizando websocket e javascript para criar um chat no terminal :rocket:
 
-# Semana-javascript-expert03 ministrada pelo [Erick Wendel](http://github.com/ErickWendel)
+Projeto desenvolvido durante a Semana-javascript-expert03 ministrada pelo [Erick Wendel](http://github.com/ErickWendel)
 
 ## Preview
 
